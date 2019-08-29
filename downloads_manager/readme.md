@@ -10,20 +10,20 @@ II. Usage:
     That's it! Now you should receive notifications that your download files are moved based on their extensions in Downloads folder.
     
     Example: 
-    Initial Downloads content: path/to/downloads/Downloads/: -example.jpg
-                                                             -example.mp4
-                                                             -example.png
-                                                             -example.rar
-                                                             -example.mp3
-                                                             -example.pdf
-                                                             -example.ppt
-                                                             -example.exe
+    Initial Downloads content: path/to/downloads/Downloads/: -all_files.jpg
+                                                             -all_files.mp4
+                                                             -all_files.png
+                                                             -all_files.rar
+                                                             -all_files.mp3
+                                                             -all_files.pdf
+                                                             -all_files.ppt
+                                                             -all_files.exe
                                                              
-    After running downloads_manager.py: path/to/downloads/Downloads/: -Executables/ -example.exe
-                                                                      -Images/ -example.jpg
-                                                                               -example.png
-                                                                      -Music/ -example.mp3
-                                                                      -PDF/ -example.pdf
-                                                                      -PPT/ -example.ppt
-                                                                      -RAR/ -example.rar
-                                                                      -Videos/ -example.mp4
+    After running downloads_manager.py: path/to/downloads/Downloads/: -Executables/ -all_files.exe
+                                                                      -Images/ -all_files.jpg
+                                                                               -all_files.png
+                                                                      -Music/ -all_files.mp3
+                                                                      -PDF/ -all_files.pdf
+                                                                      -PPT/ -all_files.ppt
+                                                                      -RAR/ -all_files.rar
+                                                                      -Videos/ -all_files.mp4
