@@ -6,7 +6,7 @@ II. Usage:
     - Download and Install python3.7 from https://www.python.org/downloads/
     - Download and Install anaconda from https://www.anaconda.com/distribution/
     - Open anaconda cmd prompt and type pip install pywin32 win10toast
-    In path/to/downloads/Downloads paste downloads_manager.py and functions_amatei and run with python3.7 downloads_manager.py.
+    - In path/to/downloads/Downloads paste downloads_manager.py and functions_amatei and run with python3.7 downloads_manager.py
     That's it! Now you should receive notifications that your download files are moved based on their extensions in real time!
     
     Example: 
